@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/Dragon/build/CMakeFiles/DragonFractal.dir
+/home/vboxuser/Desktop/Dragon/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/Dragon/build/CMakeFiles/rebuild_cache.dir
